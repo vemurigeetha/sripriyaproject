@@ -1,0 +1,52 @@
+{
+	"details":{
+		"image":"images.png",
+		"name":"sripriya",
+		"phoneno":"+91-7093325816",
+		"email":"sripriyavemuri@gmail.com",
+		"address":"vignan's nirula college,guntur."
+	},
+	"career":{
+		"info":"to pursue a challenging career"
+	},
+	"education":[
+		{
+		  "qualification":"B.tech",
+		  "institute":"vignan's nirula college",
+		  "year":"2016-2020",
+		  "percentage":"85%"
+		},
+		{
+		  "qualification":"intermediate",
+		  "institute":"sri chaitanya college",
+		  "year":"2014-2016",
+		  "percentage":"96%"
+		},
+		{
+		  "qualification":"10th",
+		  "institute":"vignan high school",
+		  "year":"2014",
+		  "percentage":"95%"
+		}
+	],
+	"skills":[
+		{
+			"title":"programming languages",
+			"info":["java","c","c++","python","r"]
+	    },
+	    {
+	    	"title":"database",
+	    	"info":["sql","mysql","oracle"]
+	    },
+	    {
+	    	"title":"Operating System",
+	    	"info":["windows","linux","mac","unix"]
+	    }
+    ],
+    "hobbies":[
+    	{
+    		"title":"hobbie",
+    		"info":["debate","singing","paper presentation"]
+        }
+     ]
+}
